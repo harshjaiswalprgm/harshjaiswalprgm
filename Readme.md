@@ -1,0 +1,3 @@
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshjaiswalprgm&show_icons=true&count_private=true&theme=tokyonight" alt="harshjaiswalprgm's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswalprgm&theme=tokyonight" /> </p>
+
+<a href="https://github.com/harshjaiswalprgm/github-readme-activity-graph"><img alt="Harsh Jaiswal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=harshjaiswalprgm&theme=tokyonight&bg_color=fff8dc&color=5bcdec&line=33ff33&point=ffa500&hide_border=true" /></a>
